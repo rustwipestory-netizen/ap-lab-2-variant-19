@@ -13,3 +13,20 @@ g++ -std=c++17 main.cpp -o Lab02Variant19
 ```
 
 Також можна відкрити цю папку як CMake-проєкт у Visual Studio.
+
+Результати двох формул мають збігатися.
+
+Десятковий роздільник при введенні - крапка.
+
+## Репозиторій та історія Git
+
+https://github.com/rustwipestory-netizen/ap-lab-2-variant-19
+
+Гілки main і checks демонструють роботу з версіями та перевірками.
+Файл OriginalLocalHistory.bundle містить повну початкову локальну історію
+лабораторної роботи, включно з комітами, показаними у звіті.
+Після завантаження цього файла історію можна відновити командою:
+
+```sh
+git clone OriginalLocalHistory.bundle lab-local-history
+```
